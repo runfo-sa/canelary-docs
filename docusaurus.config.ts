@@ -82,13 +82,13 @@ const config: Config = {
         },
         //{to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/runfo-sa/visual-ternera',
+          href: 'https://github.com/runfo-sa/canelary',
           label: 'GitHub',
           position: 'right',
         },
       ],
     },
-    footer: {
+    /*footer: {
       style: 'dark',
       links: [
         {
@@ -132,7 +132,7 @@ const config: Config = {
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-    },
+    },*/
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
