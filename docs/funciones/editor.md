@@ -53,7 +53,6 @@ Esta metadata se escribe como comentarios _(^FX \<...metadata...\>)_ en el archi
 ^FX     Letter: 1
 ^FX ProductId: 1660
 ^FX End Metadata
-
 ```
 
 La sintaxis ésta definida por una línea de inicio y una de fin, en la primer línea se especifica para que modulo de previsualización es compatible, y a continuación se definen los atributos incluidos dentro del módulo, utilizando el formato de serialización: **YAML**.
