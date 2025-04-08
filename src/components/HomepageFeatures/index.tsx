@@ -1,6 +1,7 @@
 import clsx from "clsx";
 import Heading from "@theme/Heading";
 import styles from "./styles.module.css";
+import CanelarySvg from "../../../static/img/logo.svg";
 
 type FeatureItem = {
   title: string;
@@ -53,9 +54,8 @@ export default function HomepageFeatures(): JSX.Element {
     <section className={styles.features}>
       <div className="container">
         <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
+          <CanelarySvg transform={"scale(" + 0.5 + ")"} />
+          <img src="/img/editor.png" />
         </div>
       </div>
     </section>
