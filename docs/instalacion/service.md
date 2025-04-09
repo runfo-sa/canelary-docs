@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+slug: /docs/instalacion/service
 ---
 
 # Instalar Controlador

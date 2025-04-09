@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+slug: /docs/funciones/editor
 ---
 
 # Editor
@@ -16,7 +17,7 @@ Este árbol de archivos realiza una separación lógica entre distintos tipos de
 En este ejemplo separa las etiquetas de caja de las primarias, y toda etiqueta que no entre en ningún criterio va a parar a la sección 'Otros'.
 
 :::info
-Para poder configurar el criterio del árbol ver [Configuración](../category/configuración/).
+Para poder configurar el criterio del árbol ver [Configuración](../configuracion.md).
 :::
 
 <div className="text--center">

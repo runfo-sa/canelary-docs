@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+slug: /docs/funciones/publish
 ---
 
 # Publicar

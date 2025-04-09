@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+slug: /docs/funciones/modulos
 ---
 
 # Módulos
